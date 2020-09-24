@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pizzeria"
+    }
+  },
+  "defaultProject": "pizzeria",
+  "cli": {
+    "analytics": "d8792eed-9c72-4f93-8513-60815aab6a7b"
+  }
 }
