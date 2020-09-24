@@ -7,9 +7,6 @@ export class Pizza {
       public crust: string,
       public toppings: string
 
-          
-      
-
 
   ){}
 }
